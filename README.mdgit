@@ -1,0 +1,1 @@
+"# pruebaReact"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:Cristianmilo071989/pruebaReact.gitgit push -u origin master
